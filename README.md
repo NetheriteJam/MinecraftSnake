@@ -1,8 +1,10 @@
 # MinecraftSnake
+**Please make sure that you have Pygame installed to run this game.**
+**Develop Environment: Python = 3.9, Pygame = 2.1.0**
 Snake but in Minecraft texture.  
-Use 'W S A D' keys to control the snake.  
+Use **'W S A D'** keys to control the snake.  
 You body length will increase by 1 once you eat a golden apple.  
-Note that the golden apple will not spawn in your body.  
-You will die of crashing into yourself.  
-You won't die of crashing into a wall, because you will go through the wall and come out from the opposite one.  
-Press 'ESC' to pause/continue the game.  
+Note that the golden apple **will not** spawn in your body.  
+You **will die** of crashing into **yourself**.  
+You **won't die** of crashing into a **wall**, because you will **go through the wall and come out from the opposite one**.  
+Press **'ESC'** to pause/continue the game.  
