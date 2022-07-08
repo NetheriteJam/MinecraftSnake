@@ -1,6 +1,6 @@
 # MinecraftSnake
-**Please make sure that you have Pygame installed to run this game.**
-**Develop Environment: Python = 3.9, Pygame = 2.1.0**
+**Please make sure that you have Pygame installed to run this game.**  
+**Develop Environment: Python = 3.9, Pygame = 2.1.0**  
 Snake but in Minecraft texture.  
 Use **'W S A D'** keys to control the snake.  
 You body length will increase by 1 once you eat a golden apple.  
